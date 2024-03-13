@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Document</title>
+
+<link rel="stylesheet" href="./style.css" />
+
+</head>
+
+<1--leader section start
+
+<div class="container">
+
+<nav>
+
+<ul>
+
+<li style=><a href="">Home</a></li>
+
+<li><a href="">About</a></li>
+
+<li><a href="">Contact</a></li>
+
+<body>
+
+<header>
+
+</nav>
+
+</div>
+
+</header>
+<11><a href="">More</a></li>
+
+</ul>
+<!-- Header section finish ->
+
+<main>
+
+<1- cards section stant
+
+<section class="cards-1">
+
+<div class="container"> <div class="cards">
+
+<div class="card">
+
+<h2 class="card-title">Abdulloh</h2>
+
+<p class="card-description">
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, recusandae dolores at debitis deserunt tempora doloremque doloribus ipsam tempore ipsa quas ratione natus est fugit harum dicta excepturi corporis, pariatur non? Fugit molestiae, saepe nam ducimus
+
+</p>
+</div>
+
+<div class="card">
+
+<h2 class="card-title">Abdulloh</h2>
+
+<p class="card description">
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, recusandae dolores at debitis deserunt tempora doloremque doloribus ipsam tempore ipsa quas ratione natus est fugit harum dicta excepturi corporis, pariatur non? Fugit molestiae, saepe
+
+</p>
+
+</div>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<div class="card">
+
+<h2 class="card-title">Abdulloh</h2>
+
+<p class="card-description">
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, recusandae dolores at debitis deserunt tempora doloremque doloribus ipsam tempore ipsa quas ratione natus est fugit harum dicte excepturi corporis, pariatur non? Fugit molestiae, soepe nam ducimus
+
+<!-- cards section finish
+
+<1 cards 2 section statet
+
+<section class="cards-2">
+
+<div class="container">
+
+<div class="cards-second">
+
+<div class="cards-second_card"></div>
+
+<div class="cards-second card"></div>
+
+</div>
+
+</div>
+
+</section>
+
+<1 cards-2 section finish
+
+<div class="container">Abdulloh Fazliddinov 2024</div>
+
+</main>
+
+<footer>
+
+</footer>
+
+</body> </html>
